@@ -1,0 +1,9 @@
+// Primer programa en C++
+
+#include <iostream>
+
+using namespace std;
+int main(){
+cout<<"Hoa mundo";
+return 0;
+}
